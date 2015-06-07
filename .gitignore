@@ -1,0 +1,4 @@
+*.pdb
+*/obj/Debug/*
+*/bin/Debug/*
+Aeron.v12.suo
